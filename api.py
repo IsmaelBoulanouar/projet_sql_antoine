@@ -38,3 +38,5 @@ def delete_product(id):
 # Exécuter l'application
 if __name__ == '__main__':
     app.run(debug=True)
+    
+#http://localhost:5000/products
