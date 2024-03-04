@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Connexion à MongoDB
 client = MongoClient("mongodb://localhost:27017/")
-db = client['projet_nosql']  # Remplacez par le nom de votre base de données
+db = client['projet_nosql_antoine']  # Remplacez par le nom de votre base de données
 
 # Endpoint pour obtenir tous les produits
 @app.route('/products', methods=['GET'])
