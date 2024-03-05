@@ -1,11 +1,9 @@
 from pymongo import MongoClient
 import json
 
-# Connexion à MongoDB
 client = MongoClient("mongodb://localhost:27017/")
 db = client['projet_nosql_antoine']
 
-# Liste des problématiques et des requêtes correspondantes
 queries_info = [
     {"collection": "products", "query": [{"$match": {"quantity_stock": {"$gt": 0}}}], "description": "Lister tous les produits disponibles en stock."},
     {"collection": "products", "query": [{"$match": {"category_id": "c100"}}], "description": "Trouver les produits d'une catégorie spécifique, par exemple, 'Electronics'."},
@@ -14,17 +12,13 @@ queries_info = [
     {"collection": "products", "query": [{"$match": {"quantity_stock": {"$lt": 10}}}], "description": "Rechercher les produits ayant un stock inférieur à un certain seuil, par exemple, 10."},
     {"collection": "users", "query": [{"$match": {"order_history": {"$size": 0}}}], "description": "Trouver les utilisateurs qui n'ont jamais passé de commande."},
     {"collection": "products", "query": [{"$lookup": {"from": "orders", "localField": "id_product", "foreignField": "products.id_product", "as": "orders"}}, {"$match": {"orders": {"$size": 0}}}], "description": "Lister les produits qui n'ont jamais été commandés."},
-    # ... Continuer à ajouter les requêtes restantes ...
 ]
 
-# Exécuter les requêtes et écrire les résultats dans un fichier
 with open('results.txt', 'w', encoding='utf-8') as file:
     for query_info in queries_info:
-        # Pour les requêtes d'agrégation
         cursor = db[query_info['collection']].aggregate(query_info['query'])
         results = list(cursor)
         file.write(f"Problématique: {query_info['description']}\n")
         file.write(f"Résultats:\n{json.dumps(results, indent=4, default=str)}\n\n")
 
-# Fermer la connexion à la base de données
 client.close()
