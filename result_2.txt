@@ -2,7 +2,7 @@ Problématique: Lister tous les produits disponibles en stock.
 Résultats:
 [
     {
-        "_id": "65e64e4b5cf01c0632f296b8",
+        "_id": "65e4b177757444150e6fbfb2",
         "id_product": "p1001",
         "name": "Team-oriented human-resource groupware",
         "description": "orchestrate clicks-and-mortar content",
@@ -13,7 +13,7 @@ Résultats:
         "date_added": "2022-06-14"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b9",
+        "_id": "65e4b177757444150e6fbfb3",
         "id_product": "p1002",
         "name": "Devolved bottom-line pricing structure",
         "description": "e-enable transparent metrics",
@@ -24,7 +24,7 @@ Résultats:
         "date_added": "2023-12-28"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ba",
+        "_id": "65e4b177757444150e6fbfb4",
         "id_product": "p1003",
         "name": "Extended solution-oriented service-desk",
         "description": "incubate virtual vortals",
@@ -35,7 +35,7 @@ Résultats:
         "date_added": "2024-02-15"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296bb",
+        "_id": "65e4b177757444150e6fbfb5",
         "id_product": "p1004",
         "name": "Streamlined uniform firmware",
         "description": "streamline best-of-breed relationships",
@@ -46,7 +46,7 @@ Résultats:
         "date_added": "2022-05-12"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296bc",
+        "_id": "65e4b177757444150e6fbfb6",
         "id_product": "p1005",
         "name": "Quality-focused incremental database",
         "description": "repurpose intuitive action-items",
@@ -57,7 +57,7 @@ Résultats:
         "date_added": "2022-04-17"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296bd",
+        "_id": "65e4b177757444150e6fbfb7",
         "id_product": "p1006",
         "name": "Reduced zero administration hierarchy",
         "description": "deploy 24/365 vortals",
@@ -68,7 +68,7 @@ Résultats:
         "date_added": "2023-01-28"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296be",
+        "_id": "65e4b177757444150e6fbfb8",
         "id_product": "p1007",
         "name": "Customizable explicit methodology",
         "description": "re-contextualize efficient vortals",
@@ -79,7 +79,7 @@ Résultats:
         "date_added": "2022-10-15"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296bf",
+        "_id": "65e4b177757444150e6fbfb9",
         "id_product": "p1008",
         "name": "Business-focused non-volatile artificial intelligence",
         "description": "integrate leading-edge convergence",
@@ -90,7 +90,7 @@ Résultats:
         "date_added": "2023-07-17"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c0",
+        "_id": "65e4b177757444150e6fbfba",
         "id_product": "p1009",
         "name": "Object-based homogeneous moderator",
         "description": "target robust schemas",
@@ -101,7 +101,7 @@ Résultats:
         "date_added": "2023-05-10"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c1",
+        "_id": "65e4b177757444150e6fbfbb",
         "id_product": "p10010",
         "name": "Ameliorated solution-oriented monitoring",
         "description": "monetize open-source e-services",
@@ -112,7 +112,7 @@ Résultats:
         "date_added": "2023-01-22"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c2",
+        "_id": "65e4b177757444150e6fbfbc",
         "id_product": "p10011",
         "name": "Re-engineered motivating capacity",
         "description": "transition seamless convergence",
@@ -123,7 +123,7 @@ Résultats:
         "date_added": "2022-07-02"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c3",
+        "_id": "65e4b177757444150e6fbfbd",
         "id_product": "p10012",
         "name": "Business-focused modular methodology",
         "description": "incubate user-centric web services",
@@ -134,7 +134,7 @@ Résultats:
         "date_added": "2022-05-04"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c4",
+        "_id": "65e4b177757444150e6fbfbe",
         "id_product": "p10013",
         "name": "Advanced impactful parallelism",
         "description": "innovate transparent e-tailers",
@@ -145,7 +145,7 @@ Résultats:
         "date_added": "2023-08-29"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c5",
+        "_id": "65e4b177757444150e6fbfbf",
         "id_product": "p10014",
         "name": "Programmable context-sensitive capacity",
         "description": "drive distributed applications",
@@ -156,7 +156,7 @@ Résultats:
         "date_added": "2023-12-09"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c6",
+        "_id": "65e4b177757444150e6fbfc0",
         "id_product": "p10015",
         "name": "Assimilated needs-based secured line",
         "description": "enable next-generation mindshare",
@@ -167,7 +167,7 @@ Résultats:
         "date_added": "2022-11-23"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c7",
+        "_id": "65e4b177757444150e6fbfc1",
         "id_product": "p10016",
         "name": "Progressive tertiary capability",
         "description": "incubate virtual models",
@@ -178,7 +178,7 @@ Résultats:
         "date_added": "2024-01-10"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c8",
+        "_id": "65e4b177757444150e6fbfc2",
         "id_product": "p10017",
         "name": "Polarized optimizing solution",
         "description": "whiteboard leading-edge methodologies",
@@ -189,7 +189,7 @@ Résultats:
         "date_added": "2022-09-26"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c9",
+        "_id": "65e4b177757444150e6fbfc3",
         "id_product": "p10018",
         "name": "Versatile logistical Graphical User Interface",
         "description": "extend intuitive networks",
@@ -200,7 +200,7 @@ Résultats:
         "date_added": "2023-02-04"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ca",
+        "_id": "65e4b177757444150e6fbfc4",
         "id_product": "p10019",
         "name": "Monitored foreground array",
         "description": "unleash revolutionary markets",
@@ -211,7 +211,7 @@ Résultats:
         "date_added": "2023-10-07"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296cb",
+        "_id": "65e4b177757444150e6fbfc5",
         "id_product": "p10020",
         "name": "Assimilated grid-enabled capacity",
         "description": "integrate turn-key niches",
@@ -222,7 +222,7 @@ Résultats:
         "date_added": "2023-07-14"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296cc",
+        "_id": "65e4b177757444150e6fbfc6",
         "id_product": "p10021",
         "name": "Multi-channeled radical pricing structure",
         "description": "benchmark 24/7 e-business",
@@ -233,7 +233,7 @@ Résultats:
         "date_added": "2023-06-21"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296cd",
+        "_id": "65e4b177757444150e6fbfc7",
         "id_product": "p10022",
         "name": "Mandatory object-oriented interface",
         "description": "facilitate B2B portals",
@@ -244,7 +244,7 @@ Résultats:
         "date_added": "2023-11-30"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ce",
+        "_id": "65e4b177757444150e6fbfc8",
         "id_product": "p10023",
         "name": "Optimized logistical collaboration",
         "description": "implement user-centric web services",
@@ -255,7 +255,7 @@ Résultats:
         "date_added": "2023-01-08"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296cf",
+        "_id": "65e4b177757444150e6fbfc9",
         "id_product": "p10024",
         "name": "Grass-roots content-based definition",
         "description": "envisioneer strategic action-items",
@@ -266,7 +266,7 @@ Résultats:
         "date_added": "2022-08-18"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d0",
+        "_id": "65e4b177757444150e6fbfca",
         "id_product": "p10025",
         "name": "Monitored transitional implementation",
         "description": "embrace seamless users",
@@ -277,7 +277,7 @@ Résultats:
         "date_added": "2022-10-07"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d1",
+        "_id": "65e4b177757444150e6fbfcb",
         "id_product": "p10026",
         "name": "Function-based real-time protocol",
         "description": "drive 24/7 systems",
@@ -288,7 +288,7 @@ Résultats:
         "date_added": "2023-03-13"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d2",
+        "_id": "65e4b177757444150e6fbfcc",
         "id_product": "p10027",
         "name": "Sharable human-resource time-frame",
         "description": "harness holistic applications",
@@ -299,7 +299,7 @@ Résultats:
         "date_added": "2023-10-11"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d3",
+        "_id": "65e4b177757444150e6fbfcd",
         "id_product": "p10028",
         "name": "Re-contextualized system-worthy implementation",
         "description": "repurpose user-centric solutions",
@@ -310,7 +310,7 @@ Résultats:
         "date_added": "2022-12-30"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d4",
+        "_id": "65e4b177757444150e6fbfce",
         "id_product": "p10029",
         "name": "Fundamental tangible superstructure",
         "description": "incubate out-of-the-box info-mediaries",
@@ -321,7 +321,7 @@ Résultats:
         "date_added": "2022-03-19"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d5",
+        "_id": "65e4b177757444150e6fbfcf",
         "id_product": "p10030",
         "name": "Up-sized contextually-based methodology",
         "description": "visualize cross-media ROI",
@@ -337,7 +337,7 @@ Problématique: Trouver les produits d'une catégorie spécifique, par exemple, 
 Résultats:
 [
     {
-        "_id": "65e64e4b5cf01c0632f296bc",
+        "_id": "65e4b177757444150e6fbfb6",
         "id_product": "p1005",
         "name": "Quality-focused incremental database",
         "description": "repurpose intuitive action-items",
@@ -348,7 +348,7 @@ Résultats:
         "date_added": "2022-04-17"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c1",
+        "_id": "65e4b177757444150e6fbfbb",
         "id_product": "p10010",
         "name": "Ameliorated solution-oriented monitoring",
         "description": "monetize open-source e-services",
@@ -359,7 +359,7 @@ Résultats:
         "date_added": "2023-01-22"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c6",
+        "_id": "65e4b177757444150e6fbfc0",
         "id_product": "p10015",
         "name": "Assimilated needs-based secured line",
         "description": "enable next-generation mindshare",
@@ -370,7 +370,7 @@ Résultats:
         "date_added": "2022-11-23"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296cb",
+        "_id": "65e4b177757444150e6fbfc5",
         "id_product": "p10020",
         "name": "Assimilated grid-enabled capacity",
         "description": "integrate turn-key niches",
@@ -381,7 +381,7 @@ Résultats:
         "date_added": "2023-07-14"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d0",
+        "_id": "65e4b177757444150e6fbfca",
         "id_product": "p10025",
         "name": "Monitored transitional implementation",
         "description": "embrace seamless users",
@@ -392,7 +392,7 @@ Résultats:
         "date_added": "2022-10-07"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d5",
+        "_id": "65e4b177757444150e6fbfcf",
         "id_product": "p10030",
         "name": "Up-sized contextually-based methodology",
         "description": "visualize cross-media ROI",
@@ -412,7 +412,7 @@ Problématique: Afficher les commandes passées par un utilisateur spécifique.
 Résultats:
 [
     {
-        "_id": "65e64e4b5cf01c0632f29661",
+        "_id": "65e4b177757444150e6fbf79",
         "order_id": "o1004",
         "user_id": "u1002",
         "products": [
@@ -425,7 +425,7 @@ Résultats:
         "order_total": 991
     },
     {
-        "_id": "65e64e4b5cf01c0632f29663",
+        "_id": "65e4b177757444150e6fbf7b",
         "order_id": "o1006",
         "user_id": "u1002",
         "products": [
@@ -438,7 +438,7 @@ Résultats:
         "order_total": 682
     },
     {
-        "_id": "65e64e4b5cf01c0632f29671",
+        "_id": "65e4b177757444150e6fbf89",
         "order_id": "o10020",
         "user_id": "u1002",
         "products": [
@@ -451,7 +451,7 @@ Résultats:
         "order_total": 168
     },
     {
-        "_id": "65e64e4b5cf01c0632f29674",
+        "_id": "65e4b177757444150e6fbf8c",
         "order_id": "o10023",
         "user_id": "u1002",
         "products": [
@@ -469,7 +469,7 @@ Problématique: Rechercher les produits ayant un stock inférieur à un certain 
 Résultats:
 [
     {
-        "_id": "65e64e4b5cf01c0632f296ce",
+        "_id": "65e4b177757444150e6fbfc8",
         "id_product": "p10023",
         "name": "Optimized logistical collaboration",
         "description": "implement user-centric web services",
@@ -480,7 +480,7 @@ Résultats:
         "date_added": "2023-01-08"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d2",
+        "_id": "65e4b177757444150e6fbfcc",
         "id_product": "p10027",
         "name": "Sharable human-resource time-frame",
         "description": "harness holistic applications",
@@ -491,7 +491,7 @@ Résultats:
         "date_added": "2023-10-11"
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d3",
+        "_id": "65e4b177757444150e6fbfcd",
         "id_product": "p10028",
         "name": "Re-contextualized system-worthy implementation",
         "description": "repurpose user-centric solutions",
@@ -507,210 +507,210 @@ Problématique: Trouver les utilisateurs qui n'ont jamais passé de commande.
 Résultats:
 [
     {
-        "_id": "65e64e4b5cf01c0632f2969a",
+        "_id": "65e4b177757444150e6fbfd5",
         "user_id": "u1001",
         "name": "Jason Mendoza",
         "email": "xhaas@wilson.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f2969b",
+        "_id": "65e4b177757444150e6fbfd6",
         "user_id": "u1002",
         "name": "Frank Yu",
         "email": "rgreen@gmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f2969c",
+        "_id": "65e4b177757444150e6fbfd7",
         "user_id": "u1003",
         "name": "Tiffany Cruz",
         "email": "michaelmedina@olson-austin.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f2969d",
+        "_id": "65e4b177757444150e6fbfd8",
         "user_id": "u1004",
         "name": "Robert Gomez",
         "email": "qsmith@yahoo.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f2969e",
+        "_id": "65e4b177757444150e6fbfd9",
         "user_id": "u1005",
         "name": "Paul Bruce",
         "email": "obarnes@harris.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f2969f",
+        "_id": "65e4b177757444150e6fbfda",
         "user_id": "u1006",
         "name": "Heather Stokes",
         "email": "amy36@johnson.info",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a0",
+        "_id": "65e4b177757444150e6fbfdb",
         "user_id": "u1007",
         "name": "Jamie Moore",
         "email": "adamsdouglas@wright-bowen.biz",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a1",
+        "_id": "65e4b177757444150e6fbfdc",
         "user_id": "u1008",
         "name": "Mr. Theodore Lucas",
         "email": "david46@hotmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a2",
+        "_id": "65e4b177757444150e6fbfdd",
         "user_id": "u1009",
         "name": "Nancy Owens MD",
         "email": "msloan@yahoo.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a3",
+        "_id": "65e4b177757444150e6fbfde",
         "user_id": "u10010",
         "name": "Michael Shannon",
         "email": "kristine51@hotmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a4",
+        "_id": "65e4b177757444150e6fbfdf",
         "user_id": "u10011",
         "name": "Elizabeth Cannon",
         "email": "welchmichael@gmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a5",
+        "_id": "65e4b177757444150e6fbfe0",
         "user_id": "u10012",
         "name": "Shannon Taylor",
         "email": "mstanley@yahoo.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a6",
+        "_id": "65e4b177757444150e6fbfe1",
         "user_id": "u10013",
         "name": "Anthony Berry",
         "email": "obrown@forbes-zimmerman.info",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a7",
+        "_id": "65e4b177757444150e6fbfe2",
         "user_id": "u10014",
         "name": "Krystal Ramos",
         "email": "egamble@anderson.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a8",
+        "_id": "65e4b177757444150e6fbfe3",
         "user_id": "u10015",
         "name": "Adam Gonzalez",
         "email": "garysanchez@thompson-davidson.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296a9",
+        "_id": "65e4b177757444150e6fbfe4",
         "user_id": "u10016",
         "name": "Alfred Barry",
         "email": "munozsheila@hotmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296aa",
+        "_id": "65e4b177757444150e6fbfe5",
         "user_id": "u10017",
         "name": "Gary Davis",
         "email": "joshuaroth@marquez-berry.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ab",
+        "_id": "65e4b177757444150e6fbfe6",
         "user_id": "u10018",
         "name": "Mark Wade",
         "email": "kevinharmon@brown.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ac",
+        "_id": "65e4b177757444150e6fbfe7",
         "user_id": "u10019",
         "name": "Jeff Jackson",
         "email": "barbara92@white-diaz.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ad",
+        "_id": "65e4b177757444150e6fbfe8",
         "user_id": "u10020",
         "name": "Brandi Sims",
         "email": "douglaswilson@hotmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ae",
+        "_id": "65e4b177757444150e6fbfe9",
         "user_id": "u10021",
         "name": "Heather Copeland",
         "email": "colleenpineda@yahoo.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296af",
+        "_id": "65e4b177757444150e6fbfea",
         "user_id": "u10022",
         "name": "Jordan Howell",
         "email": "robertross@wolf-payne.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b0",
+        "_id": "65e4b177757444150e6fbfeb",
         "user_id": "u10023",
         "name": "Jeffrey Cox",
         "email": "sawyerlisa@cunningham-jenkins.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b1",
+        "_id": "65e4b177757444150e6fbfec",
         "user_id": "u10024",
         "name": "David Moss",
         "email": "lopezjamie@bray.net",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b2",
+        "_id": "65e4b177757444150e6fbfed",
         "user_id": "u10025",
         "name": "Melanie Holloway",
         "email": "haley10@roberts.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b3",
+        "_id": "65e4b177757444150e6fbfee",
         "user_id": "u10026",
         "name": "Michael Shepherd",
         "email": "shane73@hotmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b4",
+        "_id": "65e4b177757444150e6fbfef",
         "user_id": "u10027",
         "name": "John White",
         "email": "christina41@cooke.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b5",
+        "_id": "65e4b177757444150e6fbff0",
         "user_id": "u10028",
         "name": "Samantha Mills",
         "email": "imurray@hotmail.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b6",
+        "_id": "65e4b177757444150e6fbff1",
         "user_id": "u10029",
         "name": "Thomas Sullivan",
         "email": "matthewcolon@howard.com",
         "order_history": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b7",
+        "_id": "65e4b177757444150e6fbff2",
         "user_id": "u10030",
         "name": "Lisa Smith",
         "email": "janelawson@yahoo.com",
@@ -722,7 +722,7 @@ Problématique: Lister les produits qui n'ont jamais été commandés.
 Résultats:
 [
     {
-        "_id": "65e64e4b5cf01c0632f296b8",
+        "_id": "65e4b177757444150e6fbfb2",
         "id_product": "p1001",
         "name": "Team-oriented human-resource groupware",
         "description": "orchestrate clicks-and-mortar content",
@@ -734,7 +734,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296b9",
+        "_id": "65e4b177757444150e6fbfb3",
         "id_product": "p1002",
         "name": "Devolved bottom-line pricing structure",
         "description": "e-enable transparent metrics",
@@ -746,7 +746,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c0",
+        "_id": "65e4b177757444150e6fbfba",
         "id_product": "p1009",
         "name": "Object-based homogeneous moderator",
         "description": "target robust schemas",
@@ -758,7 +758,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c1",
+        "_id": "65e4b177757444150e6fbfbb",
         "id_product": "p10010",
         "name": "Ameliorated solution-oriented monitoring",
         "description": "monetize open-source e-services",
@@ -770,7 +770,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c3",
+        "_id": "65e4b177757444150e6fbfbd",
         "id_product": "p10012",
         "name": "Business-focused modular methodology",
         "description": "incubate user-centric web services",
@@ -782,7 +782,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c4",
+        "_id": "65e4b177757444150e6fbfbe",
         "id_product": "p10013",
         "name": "Advanced impactful parallelism",
         "description": "innovate transparent e-tailers",
@@ -794,7 +794,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c7",
+        "_id": "65e4b177757444150e6fbfc1",
         "id_product": "p10016",
         "name": "Progressive tertiary capability",
         "description": "incubate virtual models",
@@ -806,7 +806,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296c9",
+        "_id": "65e4b177757444150e6fbfc3",
         "id_product": "p10018",
         "name": "Versatile logistical Graphical User Interface",
         "description": "extend intuitive networks",
@@ -818,7 +818,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ca",
+        "_id": "65e4b177757444150e6fbfc4",
         "id_product": "p10019",
         "name": "Monitored foreground array",
         "description": "unleash revolutionary markets",
@@ -830,7 +830,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296ce",
+        "_id": "65e4b177757444150e6fbfc8",
         "id_product": "p10023",
         "name": "Optimized logistical collaboration",
         "description": "implement user-centric web services",
@@ -842,7 +842,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d1",
+        "_id": "65e4b177757444150e6fbfcb",
         "id_product": "p10026",
         "name": "Function-based real-time protocol",
         "description": "drive 24/7 systems",
@@ -854,7 +854,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d2",
+        "_id": "65e4b177757444150e6fbfcc",
         "id_product": "p10027",
         "name": "Sharable human-resource time-frame",
         "description": "harness holistic applications",
@@ -866,7 +866,7 @@ Résultats:
         "orders": []
     },
     {
-        "_id": "65e64e4b5cf01c0632f296d4",
+        "_id": "65e4b177757444150e6fbfce",
         "id_product": "p10029",
         "name": "Fundamental tangible superstructure",
         "description": "incubate out-of-the-box info-mediaries",
@@ -876,6 +876,602 @@ Résultats:
         "image_url": "http://example.com/products/p10029.jpg",
         "date_added": "2022-03-19",
         "orders": []
+    }
+]
+
+Problématique: Obtenir le total des ventes pour chaque produit.
+Résultats:
+[
+    {
+        "_id": "p10022",
+        "totalSales": 2
+    },
+    {
+        "_id": "p10015",
+        "totalSales": 7
+    },
+    {
+        "_id": "p10014",
+        "totalSales": 5
+    },
+    {
+        "_id": "p10030",
+        "totalSales": 8
+    },
+    {
+        "_id": "p10011",
+        "totalSales": 5
+    },
+    {
+        "_id": "p10028",
+        "totalSales": 4
+    },
+    {
+        "_id": "p1006",
+        "totalSales": 8
+    },
+    {
+        "_id": "p10021",
+        "totalSales": 4
+    },
+    {
+        "_id": "p10025",
+        "totalSales": 1
+    },
+    {
+        "_id": "p1008",
+        "totalSales": 7
+    },
+    {
+        "_id": "p1007",
+        "totalSales": 3
+    },
+    {
+        "_id": "p1003",
+        "totalSales": 2
+    },
+    {
+        "_id": "p10017",
+        "totalSales": 4
+    },
+    {
+        "_id": "p10020",
+        "totalSales": 7
+    },
+    {
+        "_id": "p1004",
+        "totalSales": 4
+    },
+    {
+        "_id": "p1005",
+        "totalSales": 7
+    },
+    {
+        "_id": "p10024",
+        "totalSales": 4
+    }
+]
+
+Problématique: Identifier les produits les plus populaires basés sur le nombre de commandes.
+Résultats:
+[
+    {
+        "_id": "p10021",
+        "count": 3
+    },
+    {
+        "_id": "p10015",
+        "count": 2
+    },
+    {
+        "_id": "p10014",
+        "count": 2
+    },
+    {
+        "_id": "p10030",
+        "count": 2
+    },
+    {
+        "_id": "p10011",
+        "count": 2
+    },
+    {
+        "_id": "p1006",
+        "count": 2
+    },
+    {
+        "_id": "p1008",
+        "count": 2
+    },
+    {
+        "_id": "p1007",
+        "count": 2
+    },
+    {
+        "_id": "p10017",
+        "count": 2
+    },
+    {
+        "_id": "p10020",
+        "count": 2
+    },
+    {
+        "_id": "p1004",
+        "count": 2
+    },
+    {
+        "_id": "p1005",
+        "count": 2
+    },
+    {
+        "_id": "p10022",
+        "count": 1
+    },
+    {
+        "_id": "p10028",
+        "count": 1
+    },
+    {
+        "_id": "p10025",
+        "count": 1
+    },
+    {
+        "_id": "p1003",
+        "count": 1
+    },
+    {
+        "_id": "p10024",
+        "count": 1
+    }
+]
+
+Problématique: Trouver les avis publiés avant une certaine date.
+Résultats:
+[
+    {
+        "_id": "65e4b177757444150e6fbf99",
+        "review_id": "r1006",
+        "product_id": "p1009",
+        "user_id": "u10012",
+        "rating": 5,
+        "comment": "Something since keep wall interest effort develop. Notice you recently never. Score music light discover lay.\nAttack require design with stop six perform.",
+        "review_date": "2022-08-02"
+    },
+    {
+        "_id": "65e4b177757444150e6fbf9b",
+        "review_id": "r1008",
+        "product_id": "p10013",
+        "user_id": "u1001",
+        "rating": 5,
+        "comment": "East explain thing raise. Development market upon maintain item. Suddenly computer such candidate wife.\nWhether poor south other add tree key. However fall street bag learn however through.",
+        "review_date": "2022-05-29"
+    },
+    {
+        "_id": "65e4b177757444150e6fbf9e",
+        "review_id": "r10011",
+        "product_id": "p10011",
+        "user_id": "u10019",
+        "rating": 4,
+        "comment": "Move from wrong argue able investment order. List movie money charge item let perform. Ready start new success kind bring catch.",
+        "review_date": "2022-11-09"
+    },
+    {
+        "_id": "65e4b177757444150e6fbf9f",
+        "review_id": "r10012",
+        "product_id": "p10027",
+        "user_id": "u1008",
+        "rating": 3,
+        "comment": "Experience what art particular money. Scientist once of analysis family role.",
+        "review_date": "2022-12-07"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfa1",
+        "review_id": "r10014",
+        "product_id": "p10017",
+        "user_id": "u1007",
+        "rating": 3,
+        "comment": "Wrong she eye set sport. Edge including enter huge. Central inside loss.\nSign role simple election.",
+        "review_date": "2022-11-03"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfa3",
+        "review_id": "r10016",
+        "product_id": "p1009",
+        "user_id": "u1004",
+        "rating": 4,
+        "comment": "Open boy brother source list relationship talk.\nManagement what force so future worker TV. Television ball crime city only leader oil.",
+        "review_date": "2022-06-25"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfa5",
+        "review_id": "r10018",
+        "product_id": "p10019",
+        "user_id": "u10019",
+        "rating": 3,
+        "comment": "Cell lead body explain animal break everyone.\nInteresting especially scientist care summer. Matter example perhaps pattern per second wait.",
+        "review_date": "2022-08-25"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfa6",
+        "review_id": "r10019",
+        "product_id": "p1001",
+        "user_id": "u10012",
+        "rating": 1,
+        "comment": "Admit second phone wear usually nor. Television rate water. Good mean statement upon garden although.",
+        "review_date": "2022-08-06"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfab",
+        "review_id": "r10024",
+        "product_id": "p10010",
+        "user_id": "u1008",
+        "rating": 1,
+        "comment": "Participant trip authority. Policy charge administration.\nA minute return newspaper. Floor teacher who reason best. Sign identify early participant something.",
+        "review_date": "2022-04-04"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfaf",
+        "review_id": "r10028",
+        "product_id": "p10011",
+        "user_id": "u10027",
+        "rating": 1,
+        "comment": "Happen can bring spend tree report difference. Film with everybody may war serious most. Listen Mr lead north decision. Learn vote serious company.",
+        "review_date": "2022-05-13"
+    }
+]
+
+Problématique: Compter le nombre de produits dans chaque catégorie.
+Résultats:
+[
+    {
+        "_id": "c103",
+        "count": 6
+    },
+    {
+        "_id": "c101",
+        "count": 6
+    },
+    {
+        "_id": "c102",
+        "count": 6
+    },
+    {
+        "_id": "c104",
+        "count": 6
+    },
+    {
+        "_id": "c100",
+        "count": 6
+    }
+]
+
+Problématique: Trouver les utilisateurs qui ont laissé le plus d'avis.
+Résultats:
+[
+    {
+        "_id": "u10029",
+        "count": 4
+    }
+]
+
+Problématique: Lister les commandes avec un total supérieur à un certain montant, par exemple, 500.
+Résultats:
+[
+    {
+        "_id": "65e4b177757444150e6fbf76",
+        "order_id": "o1001",
+        "user_id": "u10018",
+        "products": [
+            {
+                "id_product": "p1005",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2023-09-04",
+        "order_total": 596
+    },
+    {
+        "_id": "65e4b177757444150e6fbf77",
+        "order_id": "o1002",
+        "user_id": "u10016",
+        "products": [
+            {
+                "id_product": "p1008",
+                "quantity": 3
+            }
+        ],
+        "order_date": "2023-08-26",
+        "order_total": 724
+    },
+    {
+        "_id": "65e4b177757444150e6fbf78",
+        "order_id": "o1003",
+        "user_id": "u10019",
+        "products": [
+            {
+                "id_product": "p1003",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2023-08-13",
+        "order_total": 628
+    },
+    {
+        "_id": "65e4b177757444150e6fbf79",
+        "order_id": "o1004",
+        "user_id": "u1002",
+        "products": [
+            {
+                "id_product": "p1007",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2022-04-22",
+        "order_total": 991
+    },
+    {
+        "_id": "65e4b177757444150e6fbf7b",
+        "order_id": "o1006",
+        "user_id": "u1002",
+        "products": [
+            {
+                "id_product": "p10017",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2022-04-22",
+        "order_total": 682
+    },
+    {
+        "_id": "65e4b177757444150e6fbf7e",
+        "order_id": "o1009",
+        "user_id": "u10022",
+        "products": [
+            {
+                "id_product": "p10017",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2022-05-22",
+        "order_total": 670
+    },
+    {
+        "_id": "65e4b177757444150e6fbf81",
+        "order_id": "o10012",
+        "user_id": "u10029",
+        "products": [
+            {
+                "id_product": "p10014",
+                "quantity": 3
+            }
+        ],
+        "order_date": "2023-11-03",
+        "order_total": 542
+    },
+    {
+        "_id": "65e4b177757444150e6fbf82",
+        "order_id": "o10013",
+        "user_id": "u10014",
+        "products": [
+            {
+                "id_product": "p1008",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2023-06-27",
+        "order_total": 686
+    },
+    {
+        "_id": "65e4b177757444150e6fbf84",
+        "order_id": "o10015",
+        "user_id": "u1001",
+        "products": [
+            {
+                "id_product": "p10030",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2022-10-02",
+        "order_total": 776
+    },
+    {
+        "_id": "65e4b177757444150e6fbf86",
+        "order_id": "o10017",
+        "user_id": "u10012",
+        "products": [
+            {
+                "id_product": "p10020",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2023-02-05",
+        "order_total": 606
+    },
+    {
+        "_id": "65e4b177757444150e6fbf87",
+        "order_id": "o10018",
+        "user_id": "u10013",
+        "products": [
+            {
+                "id_product": "p10028",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2022-04-17",
+        "order_total": 707
+    },
+    {
+        "_id": "65e4b177757444150e6fbf88",
+        "order_id": "o10019",
+        "user_id": "u10015",
+        "products": [
+            {
+                "id_product": "p10015",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2023-05-02",
+        "order_total": 901
+    },
+    {
+        "_id": "65e4b177757444150e6fbf8a",
+        "order_id": "o10021",
+        "user_id": "u1006",
+        "products": [
+            {
+                "id_product": "p1004",
+                "quantity": 3
+            }
+        ],
+        "order_date": "2022-05-18",
+        "order_total": 640
+    },
+    {
+        "_id": "65e4b177757444150e6fbf8d",
+        "order_id": "o10024",
+        "user_id": "u1005",
+        "products": [
+            {
+                "id_product": "p10011",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2024-02-21",
+        "order_total": 521
+    },
+    {
+        "_id": "65e4b177757444150e6fbf8e",
+        "order_id": "o10025",
+        "user_id": "u10017",
+        "products": [
+            {
+                "id_product": "p10024",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2022-10-24",
+        "order_total": 917
+    },
+    {
+        "_id": "65e4b177757444150e6fbf8f",
+        "order_id": "o10026",
+        "user_id": "u10030",
+        "products": [
+            {
+                "id_product": "p10020",
+                "quantity": 3
+            }
+        ],
+        "order_date": "2022-05-31",
+        "order_total": 754
+    },
+    {
+        "_id": "65e4b177757444150e6fbf90",
+        "order_id": "o10027",
+        "user_id": "u1007",
+        "products": [
+            {
+                "id_product": "p10021",
+                "quantity": 1
+            }
+        ],
+        "order_date": "2022-03-04",
+        "order_total": 698
+    },
+    {
+        "_id": "65e4b177757444150e6fbf91",
+        "order_id": "o10028",
+        "user_id": "u10029",
+        "products": [
+            {
+                "id_product": "p1005",
+                "quantity": 3
+            }
+        ],
+        "order_date": "2022-03-21",
+        "order_total": 611
+    },
+    {
+        "_id": "65e4b177757444150e6fbf92",
+        "order_id": "o10029",
+        "user_id": "u10014",
+        "products": [
+            {
+                "id_product": "p10021",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2023-09-14",
+        "order_total": 592
+    }
+]
+
+Problématique: Trouver les produits récemment ajoutés au catalogue.
+Résultats:
+[
+    {
+        "_id": "65e4b177757444150e6fbfb4",
+        "id_product": "p1003",
+        "name": "Extended solution-oriented service-desk",
+        "description": "incubate virtual vortals",
+        "price": 859,
+        "category_id": "c103",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p1003.jpg",
+        "date_added": "2024-02-15"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfc1",
+        "id_product": "p10016",
+        "name": "Progressive tertiary capability",
+        "description": "incubate virtual models",
+        "price": 285,
+        "category_id": "c101",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p10016.jpg",
+        "date_added": "2024-01-10"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfb3",
+        "id_product": "p1002",
+        "name": "Devolved bottom-line pricing structure",
+        "description": "e-enable transparent metrics",
+        "price": 381,
+        "category_id": "c102",
+        "quantity_stock": 57,
+        "image_url": "http://example.com/products/p1002.jpg",
+        "date_added": "2023-12-28"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfbf",
+        "id_product": "p10014",
+        "name": "Programmable context-sensitive capacity",
+        "description": "drive distributed applications",
+        "price": 589,
+        "category_id": "c104",
+        "quantity_stock": 67,
+        "image_url": "http://example.com/products/p10014.jpg",
+        "date_added": "2023-12-09"
+    },
+    {
+        "_id": "65e4b177757444150e6fbfc7",
+        "id_product": "p10022",
+        "name": "Mandatory object-oriented interface",
+        "description": "facilitate B2B portals",
+        "price": 359,
+        "category_id": "c102",
+        "quantity_stock": 96,
+        "image_url": "http://example.com/products/p10022.jpg",
+        "date_added": "2023-11-30"
+    }
+]
+
+Problématique: Déterminer la catégorie avec le prix moyen le plus élevé.
+Résultats:
+[
+    {
+        "_id": "c104",
+        "averagePrice": 618.6666666666666
     }
 ]
 

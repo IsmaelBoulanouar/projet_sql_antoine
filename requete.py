@@ -2,7 +2,7 @@ from pymongo import MongoClient
 import json
 
 client = MongoClient("mongodb://localhost:27017/")
-db = client['projet_nosql_antoine']
+db = client['projet_nosql']
 
 queries_info = [
     {"collection": "products", "query": [{"$match": {"quantity_stock": {"$gt": 0}}}], "description": "Lister tous les produits disponibles en stock."},
@@ -22,7 +22,7 @@ queries_info = [
     {"collection": "products", "query": [{"$group": {"_id": "$category_id", "averagePrice": {"$avg": "$price"}}}, {"$sort": {"averagePrice": -1}}, {"$limit": 1}], "description": "Déterminer la catégorie avec le prix moyen le plus élevé."}
 ]
 
-with open('results.txt', 'w', encoding='utf-8') as file:
+with open('result_2.txt', 'w', encoding='utf-8') as file:
     for query_info in queries_info:
         cursor = db[query_info['collection']].aggregate(query_info['query'])
         results = list(cursor)
