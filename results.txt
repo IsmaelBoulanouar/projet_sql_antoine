@@ -1,0 +1,881 @@
+Problématique: Lister tous les produits disponibles en stock.
+Résultats:
+[
+    {
+        "_id": "65e64e4b5cf01c0632f296b8",
+        "id_product": "p1001",
+        "name": "Team-oriented human-resource groupware",
+        "description": "orchestrate clicks-and-mortar content",
+        "price": 830,
+        "category_id": "c101",
+        "quantity_stock": 60,
+        "image_url": "http://example.com/products/p1001.jpg",
+        "date_added": "2022-06-14"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b9",
+        "id_product": "p1002",
+        "name": "Devolved bottom-line pricing structure",
+        "description": "e-enable transparent metrics",
+        "price": 381,
+        "category_id": "c102",
+        "quantity_stock": 57,
+        "image_url": "http://example.com/products/p1002.jpg",
+        "date_added": "2023-12-28"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ba",
+        "id_product": "p1003",
+        "name": "Extended solution-oriented service-desk",
+        "description": "incubate virtual vortals",
+        "price": 859,
+        "category_id": "c103",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p1003.jpg",
+        "date_added": "2024-02-15"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296bb",
+        "id_product": "p1004",
+        "name": "Streamlined uniform firmware",
+        "description": "streamline best-of-breed relationships",
+        "price": 821,
+        "category_id": "c104",
+        "quantity_stock": 75,
+        "image_url": "http://example.com/products/p1004.jpg",
+        "date_added": "2022-05-12"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296bc",
+        "id_product": "p1005",
+        "name": "Quality-focused incremental database",
+        "description": "repurpose intuitive action-items",
+        "price": 379,
+        "category_id": "c100",
+        "quantity_stock": 68,
+        "image_url": "http://example.com/products/p1005.jpg",
+        "date_added": "2022-04-17"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296bd",
+        "id_product": "p1006",
+        "name": "Reduced zero administration hierarchy",
+        "description": "deploy 24/365 vortals",
+        "price": 851,
+        "category_id": "c101",
+        "quantity_stock": 50,
+        "image_url": "http://example.com/products/p1006.jpg",
+        "date_added": "2023-01-28"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296be",
+        "id_product": "p1007",
+        "name": "Customizable explicit methodology",
+        "description": "re-contextualize efficient vortals",
+        "price": 202,
+        "category_id": "c102",
+        "quantity_stock": 69,
+        "image_url": "http://example.com/products/p1007.jpg",
+        "date_added": "2022-10-15"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296bf",
+        "id_product": "p1008",
+        "name": "Business-focused non-volatile artificial intelligence",
+        "description": "integrate leading-edge convergence",
+        "price": 434,
+        "category_id": "c103",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p1008.jpg",
+        "date_added": "2023-07-17"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c0",
+        "id_product": "p1009",
+        "name": "Object-based homogeneous moderator",
+        "description": "target robust schemas",
+        "price": 638,
+        "category_id": "c104",
+        "quantity_stock": 78,
+        "image_url": "http://example.com/products/p1009.jpg",
+        "date_added": "2023-05-10"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c1",
+        "id_product": "p10010",
+        "name": "Ameliorated solution-oriented monitoring",
+        "description": "monetize open-source e-services",
+        "price": 724,
+        "category_id": "c100",
+        "quantity_stock": 56,
+        "image_url": "http://example.com/products/p10010.jpg",
+        "date_added": "2023-01-22"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c2",
+        "id_product": "p10011",
+        "name": "Re-engineered motivating capacity",
+        "description": "transition seamless convergence",
+        "price": 544,
+        "category_id": "c101",
+        "quantity_stock": 25,
+        "image_url": "http://example.com/products/p10011.jpg",
+        "date_added": "2022-07-02"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c3",
+        "id_product": "p10012",
+        "name": "Business-focused modular methodology",
+        "description": "incubate user-centric web services",
+        "price": 618,
+        "category_id": "c102",
+        "quantity_stock": 98,
+        "image_url": "http://example.com/products/p10012.jpg",
+        "date_added": "2022-05-04"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c4",
+        "id_product": "p10013",
+        "name": "Advanced impactful parallelism",
+        "description": "innovate transparent e-tailers",
+        "price": 510,
+        "category_id": "c103",
+        "quantity_stock": 75,
+        "image_url": "http://example.com/products/p10013.jpg",
+        "date_added": "2023-08-29"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c5",
+        "id_product": "p10014",
+        "name": "Programmable context-sensitive capacity",
+        "description": "drive distributed applications",
+        "price": 589,
+        "category_id": "c104",
+        "quantity_stock": 67,
+        "image_url": "http://example.com/products/p10014.jpg",
+        "date_added": "2023-12-09"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c6",
+        "id_product": "p10015",
+        "name": "Assimilated needs-based secured line",
+        "description": "enable next-generation mindshare",
+        "price": 789,
+        "category_id": "c100",
+        "quantity_stock": 42,
+        "image_url": "http://example.com/products/p10015.jpg",
+        "date_added": "2022-11-23"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c7",
+        "id_product": "p10016",
+        "name": "Progressive tertiary capability",
+        "description": "incubate virtual models",
+        "price": 285,
+        "category_id": "c101",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p10016.jpg",
+        "date_added": "2024-01-10"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c8",
+        "id_product": "p10017",
+        "name": "Polarized optimizing solution",
+        "description": "whiteboard leading-edge methodologies",
+        "price": 729,
+        "category_id": "c102",
+        "quantity_stock": 26,
+        "image_url": "http://example.com/products/p10017.jpg",
+        "date_added": "2022-09-26"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c9",
+        "id_product": "p10018",
+        "name": "Versatile logistical Graphical User Interface",
+        "description": "extend intuitive networks",
+        "price": 435,
+        "category_id": "c103",
+        "quantity_stock": 46,
+        "image_url": "http://example.com/products/p10018.jpg",
+        "date_added": "2023-02-04"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ca",
+        "id_product": "p10019",
+        "name": "Monitored foreground array",
+        "description": "unleash revolutionary markets",
+        "price": 674,
+        "category_id": "c104",
+        "quantity_stock": 52,
+        "image_url": "http://example.com/products/p10019.jpg",
+        "date_added": "2023-10-07"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296cb",
+        "id_product": "p10020",
+        "name": "Assimilated grid-enabled capacity",
+        "description": "integrate turn-key niches",
+        "price": 319,
+        "category_id": "c100",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p10020.jpg",
+        "date_added": "2023-07-14"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296cc",
+        "id_product": "p10021",
+        "name": "Multi-channeled radical pricing structure",
+        "description": "benchmark 24/7 e-business",
+        "price": 607,
+        "category_id": "c101",
+        "quantity_stock": 85,
+        "image_url": "http://example.com/products/p10021.jpg",
+        "date_added": "2023-06-21"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296cd",
+        "id_product": "p10022",
+        "name": "Mandatory object-oriented interface",
+        "description": "facilitate B2B portals",
+        "price": 359,
+        "category_id": "c102",
+        "quantity_stock": 96,
+        "image_url": "http://example.com/products/p10022.jpg",
+        "date_added": "2023-11-30"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ce",
+        "id_product": "p10023",
+        "name": "Optimized logistical collaboration",
+        "description": "implement user-centric web services",
+        "price": 552,
+        "category_id": "c103",
+        "quantity_stock": 2,
+        "image_url": "http://example.com/products/p10023.jpg",
+        "date_added": "2023-01-08"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296cf",
+        "id_product": "p10024",
+        "name": "Grass-roots content-based definition",
+        "description": "envisioneer strategic action-items",
+        "price": 498,
+        "category_id": "c104",
+        "quantity_stock": 37,
+        "image_url": "http://example.com/products/p10024.jpg",
+        "date_added": "2022-08-18"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d0",
+        "id_product": "p10025",
+        "name": "Monitored transitional implementation",
+        "description": "embrace seamless users",
+        "price": 29,
+        "category_id": "c100",
+        "quantity_stock": 50,
+        "image_url": "http://example.com/products/p10025.jpg",
+        "date_added": "2022-10-07"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d1",
+        "id_product": "p10026",
+        "name": "Function-based real-time protocol",
+        "description": "drive 24/7 systems",
+        "price": 533,
+        "category_id": "c101",
+        "quantity_stock": 43,
+        "image_url": "http://example.com/products/p10026.jpg",
+        "date_added": "2023-03-13"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d2",
+        "id_product": "p10027",
+        "name": "Sharable human-resource time-frame",
+        "description": "harness holistic applications",
+        "price": 599,
+        "category_id": "c102",
+        "quantity_stock": 9,
+        "image_url": "http://example.com/products/p10027.jpg",
+        "date_added": "2023-10-11"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d3",
+        "id_product": "p10028",
+        "name": "Re-contextualized system-worthy implementation",
+        "description": "repurpose user-centric solutions",
+        "price": 321,
+        "category_id": "c103",
+        "quantity_stock": 9,
+        "image_url": "http://example.com/products/p10028.jpg",
+        "date_added": "2022-12-30"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d4",
+        "id_product": "p10029",
+        "name": "Fundamental tangible superstructure",
+        "description": "incubate out-of-the-box info-mediaries",
+        "price": 492,
+        "category_id": "c104",
+        "quantity_stock": 97,
+        "image_url": "http://example.com/products/p10029.jpg",
+        "date_added": "2022-03-19"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d5",
+        "id_product": "p10030",
+        "name": "Up-sized contextually-based methodology",
+        "description": "visualize cross-media ROI",
+        "price": 141,
+        "category_id": "c100",
+        "quantity_stock": 43,
+        "image_url": "http://example.com/products/p10030.jpg",
+        "date_added": "2023-02-04"
+    }
+]
+
+Problématique: Trouver les produits d'une catégorie spécifique, par exemple, 'Electronics'.
+Résultats:
+[
+    {
+        "_id": "65e64e4b5cf01c0632f296bc",
+        "id_product": "p1005",
+        "name": "Quality-focused incremental database",
+        "description": "repurpose intuitive action-items",
+        "price": 379,
+        "category_id": "c100",
+        "quantity_stock": 68,
+        "image_url": "http://example.com/products/p1005.jpg",
+        "date_added": "2022-04-17"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c1",
+        "id_product": "p10010",
+        "name": "Ameliorated solution-oriented monitoring",
+        "description": "monetize open-source e-services",
+        "price": 724,
+        "category_id": "c100",
+        "quantity_stock": 56,
+        "image_url": "http://example.com/products/p10010.jpg",
+        "date_added": "2023-01-22"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c6",
+        "id_product": "p10015",
+        "name": "Assimilated needs-based secured line",
+        "description": "enable next-generation mindshare",
+        "price": 789,
+        "category_id": "c100",
+        "quantity_stock": 42,
+        "image_url": "http://example.com/products/p10015.jpg",
+        "date_added": "2022-11-23"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296cb",
+        "id_product": "p10020",
+        "name": "Assimilated grid-enabled capacity",
+        "description": "integrate turn-key niches",
+        "price": 319,
+        "category_id": "c100",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p10020.jpg",
+        "date_added": "2023-07-14"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d0",
+        "id_product": "p10025",
+        "name": "Monitored transitional implementation",
+        "description": "embrace seamless users",
+        "price": 29,
+        "category_id": "c100",
+        "quantity_stock": 50,
+        "image_url": "http://example.com/products/p10025.jpg",
+        "date_added": "2022-10-07"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d5",
+        "id_product": "p10030",
+        "name": "Up-sized contextually-based methodology",
+        "description": "visualize cross-media ROI",
+        "price": 141,
+        "category_id": "c100",
+        "quantity_stock": 43,
+        "image_url": "http://example.com/products/p10030.jpg",
+        "date_added": "2023-02-04"
+    }
+]
+
+Problématique: Obtenir la moyenne des notes pour un produit spécifique.
+Résultats:
+[]
+
+Problématique: Afficher les commandes passées par un utilisateur spécifique.
+Résultats:
+[
+    {
+        "_id": "65e64e4b5cf01c0632f29661",
+        "order_id": "o1004",
+        "user_id": "u1002",
+        "products": [
+            {
+                "id_product": "p1007",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2022-04-22",
+        "order_total": 991
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f29663",
+        "order_id": "o1006",
+        "user_id": "u1002",
+        "products": [
+            {
+                "id_product": "p10017",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2022-04-22",
+        "order_total": 682
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f29671",
+        "order_id": "o10020",
+        "user_id": "u1002",
+        "products": [
+            {
+                "id_product": "p1006",
+                "quantity": 4
+            }
+        ],
+        "order_date": "2022-03-03",
+        "order_total": 168
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f29674",
+        "order_id": "o10023",
+        "user_id": "u1002",
+        "products": [
+            {
+                "id_product": "p1007",
+                "quantity": 1
+            }
+        ],
+        "order_date": "2022-06-29",
+        "order_total": 116
+    }
+]
+
+Problématique: Rechercher les produits ayant un stock inférieur à un certain seuil, par exemple, 10.
+Résultats:
+[
+    {
+        "_id": "65e64e4b5cf01c0632f296ce",
+        "id_product": "p10023",
+        "name": "Optimized logistical collaboration",
+        "description": "implement user-centric web services",
+        "price": 552,
+        "category_id": "c103",
+        "quantity_stock": 2,
+        "image_url": "http://example.com/products/p10023.jpg",
+        "date_added": "2023-01-08"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d2",
+        "id_product": "p10027",
+        "name": "Sharable human-resource time-frame",
+        "description": "harness holistic applications",
+        "price": 599,
+        "category_id": "c102",
+        "quantity_stock": 9,
+        "image_url": "http://example.com/products/p10027.jpg",
+        "date_added": "2023-10-11"
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d3",
+        "id_product": "p10028",
+        "name": "Re-contextualized system-worthy implementation",
+        "description": "repurpose user-centric solutions",
+        "price": 321,
+        "category_id": "c103",
+        "quantity_stock": 9,
+        "image_url": "http://example.com/products/p10028.jpg",
+        "date_added": "2022-12-30"
+    }
+]
+
+Problématique: Trouver les utilisateurs qui n'ont jamais passé de commande.
+Résultats:
+[
+    {
+        "_id": "65e64e4b5cf01c0632f2969a",
+        "user_id": "u1001",
+        "name": "Jason Mendoza",
+        "email": "xhaas@wilson.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f2969b",
+        "user_id": "u1002",
+        "name": "Frank Yu",
+        "email": "rgreen@gmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f2969c",
+        "user_id": "u1003",
+        "name": "Tiffany Cruz",
+        "email": "michaelmedina@olson-austin.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f2969d",
+        "user_id": "u1004",
+        "name": "Robert Gomez",
+        "email": "qsmith@yahoo.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f2969e",
+        "user_id": "u1005",
+        "name": "Paul Bruce",
+        "email": "obarnes@harris.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f2969f",
+        "user_id": "u1006",
+        "name": "Heather Stokes",
+        "email": "amy36@johnson.info",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a0",
+        "user_id": "u1007",
+        "name": "Jamie Moore",
+        "email": "adamsdouglas@wright-bowen.biz",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a1",
+        "user_id": "u1008",
+        "name": "Mr. Theodore Lucas",
+        "email": "david46@hotmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a2",
+        "user_id": "u1009",
+        "name": "Nancy Owens MD",
+        "email": "msloan@yahoo.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a3",
+        "user_id": "u10010",
+        "name": "Michael Shannon",
+        "email": "kristine51@hotmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a4",
+        "user_id": "u10011",
+        "name": "Elizabeth Cannon",
+        "email": "welchmichael@gmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a5",
+        "user_id": "u10012",
+        "name": "Shannon Taylor",
+        "email": "mstanley@yahoo.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a6",
+        "user_id": "u10013",
+        "name": "Anthony Berry",
+        "email": "obrown@forbes-zimmerman.info",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a7",
+        "user_id": "u10014",
+        "name": "Krystal Ramos",
+        "email": "egamble@anderson.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a8",
+        "user_id": "u10015",
+        "name": "Adam Gonzalez",
+        "email": "garysanchez@thompson-davidson.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296a9",
+        "user_id": "u10016",
+        "name": "Alfred Barry",
+        "email": "munozsheila@hotmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296aa",
+        "user_id": "u10017",
+        "name": "Gary Davis",
+        "email": "joshuaroth@marquez-berry.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ab",
+        "user_id": "u10018",
+        "name": "Mark Wade",
+        "email": "kevinharmon@brown.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ac",
+        "user_id": "u10019",
+        "name": "Jeff Jackson",
+        "email": "barbara92@white-diaz.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ad",
+        "user_id": "u10020",
+        "name": "Brandi Sims",
+        "email": "douglaswilson@hotmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ae",
+        "user_id": "u10021",
+        "name": "Heather Copeland",
+        "email": "colleenpineda@yahoo.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296af",
+        "user_id": "u10022",
+        "name": "Jordan Howell",
+        "email": "robertross@wolf-payne.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b0",
+        "user_id": "u10023",
+        "name": "Jeffrey Cox",
+        "email": "sawyerlisa@cunningham-jenkins.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b1",
+        "user_id": "u10024",
+        "name": "David Moss",
+        "email": "lopezjamie@bray.net",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b2",
+        "user_id": "u10025",
+        "name": "Melanie Holloway",
+        "email": "haley10@roberts.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b3",
+        "user_id": "u10026",
+        "name": "Michael Shepherd",
+        "email": "shane73@hotmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b4",
+        "user_id": "u10027",
+        "name": "John White",
+        "email": "christina41@cooke.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b5",
+        "user_id": "u10028",
+        "name": "Samantha Mills",
+        "email": "imurray@hotmail.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b6",
+        "user_id": "u10029",
+        "name": "Thomas Sullivan",
+        "email": "matthewcolon@howard.com",
+        "order_history": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b7",
+        "user_id": "u10030",
+        "name": "Lisa Smith",
+        "email": "janelawson@yahoo.com",
+        "order_history": []
+    }
+]
+
+Problématique: Lister les produits qui n'ont jamais été commandés.
+Résultats:
+[
+    {
+        "_id": "65e64e4b5cf01c0632f296b8",
+        "id_product": "p1001",
+        "name": "Team-oriented human-resource groupware",
+        "description": "orchestrate clicks-and-mortar content",
+        "price": 830,
+        "category_id": "c101",
+        "quantity_stock": 60,
+        "image_url": "http://example.com/products/p1001.jpg",
+        "date_added": "2022-06-14",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296b9",
+        "id_product": "p1002",
+        "name": "Devolved bottom-line pricing structure",
+        "description": "e-enable transparent metrics",
+        "price": 381,
+        "category_id": "c102",
+        "quantity_stock": 57,
+        "image_url": "http://example.com/products/p1002.jpg",
+        "date_added": "2023-12-28",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c0",
+        "id_product": "p1009",
+        "name": "Object-based homogeneous moderator",
+        "description": "target robust schemas",
+        "price": 638,
+        "category_id": "c104",
+        "quantity_stock": 78,
+        "image_url": "http://example.com/products/p1009.jpg",
+        "date_added": "2023-05-10",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c1",
+        "id_product": "p10010",
+        "name": "Ameliorated solution-oriented monitoring",
+        "description": "monetize open-source e-services",
+        "price": 724,
+        "category_id": "c100",
+        "quantity_stock": 56,
+        "image_url": "http://example.com/products/p10010.jpg",
+        "date_added": "2023-01-22",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c3",
+        "id_product": "p10012",
+        "name": "Business-focused modular methodology",
+        "description": "incubate user-centric web services",
+        "price": 618,
+        "category_id": "c102",
+        "quantity_stock": 98,
+        "image_url": "http://example.com/products/p10012.jpg",
+        "date_added": "2022-05-04",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c4",
+        "id_product": "p10013",
+        "name": "Advanced impactful parallelism",
+        "description": "innovate transparent e-tailers",
+        "price": 510,
+        "category_id": "c103",
+        "quantity_stock": 75,
+        "image_url": "http://example.com/products/p10013.jpg",
+        "date_added": "2023-08-29",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c7",
+        "id_product": "p10016",
+        "name": "Progressive tertiary capability",
+        "description": "incubate virtual models",
+        "price": 285,
+        "category_id": "c101",
+        "quantity_stock": 47,
+        "image_url": "http://example.com/products/p10016.jpg",
+        "date_added": "2024-01-10",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296c9",
+        "id_product": "p10018",
+        "name": "Versatile logistical Graphical User Interface",
+        "description": "extend intuitive networks",
+        "price": 435,
+        "category_id": "c103",
+        "quantity_stock": 46,
+        "image_url": "http://example.com/products/p10018.jpg",
+        "date_added": "2023-02-04",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ca",
+        "id_product": "p10019",
+        "name": "Monitored foreground array",
+        "description": "unleash revolutionary markets",
+        "price": 674,
+        "category_id": "c104",
+        "quantity_stock": 52,
+        "image_url": "http://example.com/products/p10019.jpg",
+        "date_added": "2023-10-07",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296ce",
+        "id_product": "p10023",
+        "name": "Optimized logistical collaboration",
+        "description": "implement user-centric web services",
+        "price": 552,
+        "category_id": "c103",
+        "quantity_stock": 2,
+        "image_url": "http://example.com/products/p10023.jpg",
+        "date_added": "2023-01-08",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d1",
+        "id_product": "p10026",
+        "name": "Function-based real-time protocol",
+        "description": "drive 24/7 systems",
+        "price": 533,
+        "category_id": "c101",
+        "quantity_stock": 43,
+        "image_url": "http://example.com/products/p10026.jpg",
+        "date_added": "2023-03-13",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d2",
+        "id_product": "p10027",
+        "name": "Sharable human-resource time-frame",
+        "description": "harness holistic applications",
+        "price": 599,
+        "category_id": "c102",
+        "quantity_stock": 9,
+        "image_url": "http://example.com/products/p10027.jpg",
+        "date_added": "2023-10-11",
+        "orders": []
+    },
+    {
+        "_id": "65e64e4b5cf01c0632f296d4",
+        "id_product": "p10029",
+        "name": "Fundamental tangible superstructure",
+        "description": "incubate out-of-the-box info-mediaries",
+        "price": 492,
+        "category_id": "c104",
+        "quantity_stock": 97,
+        "image_url": "http://example.com/products/p10029.jpg",
+        "date_added": "2022-03-19",
+        "orders": []
+    }
+]
+

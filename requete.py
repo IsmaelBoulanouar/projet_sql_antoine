@@ -1,28 +1,30 @@
-# We will now rewrite the code to include all 15 problem statements and queries, and save them to a text file.
+from pymongo import MongoClient
+import json
 
-# Define all 15 problem statements and corresponding queries
-problems_and_queries = [
-    {"problem": "Obtenir tous les produits disponibles dans une catégorie spécifique", "query": "db.products.find({'category_id': '<category_id>'})"},
-    {"problem": "Trouver les produits en dessous d'un certain prix", "query": "db.products.find({'price': {'$lt': <max_price>}})"},
-    {"problem": "Identifier les produits les plus stockés", "query": "db.products.find({}).sort({'quantity_stock': -1})"},
-    {"problem": "Trouver les produits ajoutés récemment au catalogue", "query": "db.products.find({}).sort({'date_added': -1})"},
-    {"problem": "Sélectionner les produits les mieux notés", "query": "db.reviews.aggregate([{'$group': {'_id': '$product_id', 'average_rating': {'$avg': '$rating'}}}, {'$match': {'average_rating': {'$gt': <rating_threshold>}}}])"},
-    {"problem": "Déterminer quels utilisateurs ont passé le plus de commandes", "query": "db.orders.aggregate([{'$group': {'_id': '$user_id', 'total_orders': {'$sum': 1}}}, {'$sort': {'total_orders': -1}}])"},
-    {"problem": "Calculer le revenu total généré par catégorie de produit", "query": "db.orders.aggregate([{'$unwind': '$products'}, {'$lookup': {'from': 'products', 'localField': 'products.id_product', 'foreignField': 'id_product', 'as': 'product_info'}}, {'$group': {'_id': '$product_info.category_id', 'total_sales': {'$sum': {'$multiply': ['$products.quantity', '$product_info.price']}}}}])"},
-    {"problem": "Identifier les produits qui n'ont jamais été commandés", "query": "db.products.find({'_id': {'$nin': db.orders.distinct('products.id_product')}})"},
-    {"problem": "Calculer la critique moyenne des produits d'une catégorie spécifique", "query": "db.reviews.aggregate([{'$lookup': {'from': 'products', 'localField': 'product_id', 'foreignField': 'id_product', 'as': 'product_info'}}, {'$match': {'product_info.category_id': '<category_id>'}}, {'$group': {'_id': '$product_id', 'average_review': {'$avg': '$rating'}}}])"},
-    {"problem": "Trouver le produit le moins cher dans chaque catégorie", "query": "db.products.aggregate([{'$group': {'_id': '$category_id', 'cheapest_product': {'$min': '$price'}}}])"},
-    {"problem": "Identifier les clients n'ayant pas passé de commande depuis plus d'un an", "query": "db.users.find({'_id': {'$nin': db.orders.find({'order_date': {'$gte': new Date((new Date()).getTime() - (365 * 24 * 60 * 60 * 1000))}}).distinct('user_id')}})"},
-    {"problem": "Trouver les produits avec une quantité de stock inférieure à un seuil spécifique", "query": "db.products.find({'quantity_stock': {'$lt': <threshold>}})"},
-    {"problem": "Compter le nombre total de produits différents vendus", "query": "db.orders.aggregate([{'$unwind': '$products'}, {'$group': {'_id': '$products.id_product'}}, {'$count': 'distinct_products_sold'}])"},
-    {"problem": "Identifier la commande la plus chère passée", "query": "db.orders.find({}).sort({'order_total': -1}).limit(1)"},
-    {"problem": "Obtenir les avis des utilisateurs sur un produit spécifique", "query": "db.reviews.find({'product_id': '<product_id>'})"}
+# Connexion à MongoDB
+client = MongoClient("mongodb://localhost:27017/")
+db = client['projet_nosql_antoine']
+
+# Liste des problématiques et des requêtes correspondantes
+queries_info = [
+    {"collection": "products", "query": [{"$match": {"quantity_stock": {"$gt": 0}}}], "description": "Lister tous les produits disponibles en stock."},
+    {"collection": "products", "query": [{"$match": {"category_id": "c100"}}], "description": "Trouver les produits d'une catégorie spécifique, par exemple, 'Electronics'."},
+    {"collection": "reviews", "query": [{"$match": {"product_id": "p1003"}}, {"$group": {"_id": "$product_id", "averageRating": {"$avg": "$rating"}}}], "description": "Obtenir la moyenne des notes pour un produit spécifique."},
+    {"collection": "orders", "query": [{"$match": {"user_id": "u1002"}}], "description": "Afficher les commandes passées par un utilisateur spécifique."},
+    {"collection": "products", "query": [{"$match": {"quantity_stock": {"$lt": 10}}}], "description": "Rechercher les produits ayant un stock inférieur à un certain seuil, par exemple, 10."},
+    {"collection": "users", "query": [{"$match": {"order_history": {"$size": 0}}}], "description": "Trouver les utilisateurs qui n'ont jamais passé de commande."},
+    {"collection": "products", "query": [{"$lookup": {"from": "orders", "localField": "id_product", "foreignField": "products.id_product", "as": "orders"}}, {"$match": {"orders": {"$size": 0}}}], "description": "Lister les produits qui n'ont jamais été commandés."},
+    # ... Continuer à ajouter les requêtes restantes ...
 ]
 
-# Write the content to a text file
-file_path = '/mnt/data/problems_and_queries.txt'
-with open(file_path, 'w') as file:
-    for item in problems_and_queries:
-        file.write(f"Problématique: {item['problem']}\nRequête: {item['query']}\n\n")
+# Exécuter les requêtes et écrire les résultats dans un fichier
+with open('results.txt', 'w', encoding='utf-8') as file:
+    for query_info in queries_info:
+        # Pour les requêtes d'agrégation
+        cursor = db[query_info['collection']].aggregate(query_info['query'])
+        results = list(cursor)
+        file.write(f"Problématique: {query_info['description']}\n")
+        file.write(f"Résultats:\n{json.dumps(results, indent=4, default=str)}\n\n")
 
-file_path
+# Fermer la connexion à la base de données
+client.close()
